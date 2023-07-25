@@ -26,8 +26,10 @@ I'm a recent graduate of the University of Brighton, studying Digital Games Deve
 
 Projects that I have previously worked on:
 
-- [Chron](https://github.com/UoBSoft/Chron)
-
+- [Chron - A University of Brighton Collaborative Platformer](https://github.com/UoBSoft/Chron)
+- [Turtle's Bizzare Adventure - Submission for the 2019 Green Game Jam by Ukie](https://chunhochoi.itch.io/turtles-bizarre-adventures)
+- [Acolyte - Submission for the Ludum Dare 43 Game Jam](https://ldjam.com/events/ludum-dare/43/acolyte)
+- [Stirling's Pride Parade - Submission for the first Gay(M) Jam by the University of Brighton, Third Place runner up.]()
 
 
 <!--
