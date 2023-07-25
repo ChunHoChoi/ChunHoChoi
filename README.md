@@ -16,7 +16,10 @@ Welcome to my profile! I'm an aspiring web developer and 3D modeller making inro
 </details>
 
 Projects that I have worked on:
+
 [Chron](https://github.com/UoBSoft/Chron)
+
+
 
 <!--
 **ChunHoChoi/ChunHoChoi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
