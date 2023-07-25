@@ -1,4 +1,4 @@
-# Hi there, I'm Chun Ho Choi, but you can call me Chun. 👋  
+# Hello there! My name is Chun Ho Choi. 👋  
 Welcome to my profile! I'm an aspiring web developer and 3D modeller trying to make inroads into the industry. 😄 
 
 [<img src="https://img.shields.io/badge/-Chun%20Ho%20Choi-blue?style=flat&logo=linkedin&labelColor=blue">](https://www.linkedin.com/in/chun-ho-choi/)
@@ -8,7 +8,7 @@ Welcome to my profile! I'm an aspiring web developer and 3D modeller trying to m
 I'm a recent graduate of the University of Brighton, studying Digital Games Development Bsc(Hons). 
 
 <details>
-  <summary>My Programming Languages by Fluency</summary>
+  <summary>My Programming Languages by Fluency (click to show)</summary>
   
 | Fluency Ranking | My Programming Languages |
 | --------------- | -------------------------|
@@ -26,7 +26,7 @@ I'm a recent graduate of the University of Brighton, studying Digital Games Deve
 
 Projects that I have previously worked on:
 
-[Chron](https://github.com/UoBSoft/Chron)
+- [Chron](https://github.com/UoBSoft/Chron)
 
 
 
