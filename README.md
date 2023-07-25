@@ -1,5 +1,12 @@
-# Hey there, I'm Chun. 👋  
-Welcome to my profile! I'm an aspiring web developer and 3D modeller making inroads into the industry. 😄 
+# Hi there, I'm Chun Ho Choi, but you can call me Chun. 👋  
+Welcome to my profile! I'm an aspiring web developer and 3D modeller trying to make inroads into the industry. 😄 
+
+[<img src="https://img.shields.io/badge/-Chun%20Ho%20Choi-blue?style=flat&logo=linkedin&labelColor=blue">](https://www.linkedin.com/in/chun-ho-choi/)
+[<img src="https://img.shields.io/badge/-Chun%20Ho%20Choi-red?style=flat&logo=gmail&labelColor=white">](mailto:https://chunhochoi2000@gmail.com)
+[<img src="https://img.shields.io/badge/-Chun%20Ho%20Choi-black?style=flat&logo=Artstation&labelColor=black">](https://www.artstation.com/chunhochoi)
+
+I'm a recent graduate of the University of Brighton, studying Digital Games Development Bsc(Hons). 
+
 <details>
   <summary>My Programming Languages by Fluency</summary>
   
@@ -15,7 +22,9 @@ Welcome to my profile! I'm an aspiring web developer and 3D modeller making inro
  
 </details>
 
-Projects that I have worked on:
+![github stats](https://github-readme-stats.vercel.app/api?username=ChunHoChoi)
+
+Projects that I have previously worked on:
 
 [Chron](https://github.com/UoBSoft/Chron)
 
