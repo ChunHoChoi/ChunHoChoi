@@ -2,7 +2,7 @@
 Welcome to my profile! I'm an aspiring game developer and 3D modeller trying to make inroads into the industry.😄
 
 [<img src="https://img.shields.io/badge/-Chun%20Ho%20Choi-blue?style=flat&logo=linkedin&labelColor=blue">](https://www.linkedin.com/in/chun-ho-choi/)
-[<img src="https://img.shields.io/badge/-Chun%20Ho%20Choi-red?style=flat&logo=gmail&labelColor=white">](mailto:https://chunhochoi2000@gmail.com)
+[<img src="https://img.shields.io/badge/-chunhochoi2000@gmail.com-red?style=flat&logo=gmail&labelColor=white">](mailto:https://chunhochoi2000@gmail.com)
 [<img src="https://img.shields.io/badge/-Chun%20Ho%20Choi-black?style=flat&logo=Artstation&labelColor=black">](https://www.artstation.com/chunhochoi)
 
 I'm a recent graduate of the University of Brighton, having studied Digital Games Development Bsc(Hons). 
