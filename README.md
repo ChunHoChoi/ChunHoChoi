@@ -1,5 +1,5 @@
-# Hello there! My name is Chun Ho Choi. 👋  
-Welcome to my profile! I'm an aspiring game developer and 3D modeller trying to make inroads into the industry. 😄 
+# Why, hello there! My name is Chun Ho Choi. 👋  
+Welcome to my profile! I'm an aspiring game developer and 3D modeller trying to make inroads into the industry.😄
 
 [<img src="https://img.shields.io/badge/-Chun%20Ho%20Choi-blue?style=flat&logo=linkedin&labelColor=blue">](https://www.linkedin.com/in/chun-ho-choi/)
 [<img src="https://img.shields.io/badge/-Chun%20Ho%20Choi-red?style=flat&logo=gmail&labelColor=white">](mailto:https://chunhochoi2000@gmail.com)
