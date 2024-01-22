@@ -7,7 +7,7 @@ Welcome to my profile! I'm an aspiring game developer and 3D modeller trying to 
 
 I'm a recent graduate of the University of Brighton, having studied Digital Games Development Bsc(Hons). 
 
-Take a look at my [Personal Portfolio!](https://chunhochoi.netlify.app/)! 
+Take a look at my [Personal Portfolio!](https://chunhochoi.netlify.app/) 
 
 <details>
   <summary>My Programming Languages by Fluency (click to show)</summary>
