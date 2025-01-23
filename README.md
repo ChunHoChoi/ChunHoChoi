@@ -29,7 +29,7 @@ Take a look at my [Personal Portfolio!](https://chunhochoi.netlify.app/)
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=ChunHoChoi)
 
-Projects that I have previously worked on:
+Notable projects that I have previously worked on:
 
 - [Chron - A University of Brighton Collaborative Platformer](https://github.com/UoBSoft/Chron)
 - [Turtle's Bizzare Adventure - Submission for the 2019 Green Game Jam by Ukie](https://chunhochoi.itch.io/turtles-bizarre-adventures)
