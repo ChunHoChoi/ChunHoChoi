@@ -6,6 +6,7 @@ Welcome to my profile! I'm an aspiring game developer and 3D modeller trying to 
 [<img src="https://img.shields.io/badge/-Chun%20Ho%20Choi-black?style=flat&logo=Artstation&labelColor=black">](https://www.artstation.com/chunhochoi)
 
 I'm a recent graduate of George Brown College, studying Mobile Application Development.
+
 I'm also a graduate of the University of Brighton, having studied Digital Games Development Bsc(Hons). 
 
 Take a look at my [Personal Portfolio!](https://chunhochoi.netlify.app/) 
